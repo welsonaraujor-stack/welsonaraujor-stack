@@ -19,3 +19,9 @@
 [![](https://komarev.com/ghpvc/?username=welsonaraujor-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+ Projeto Pessoal
+Juntos Somos Mais Fortes
+Aplicação desenvolvida para incentivar a doação de sangue por meio da tecnologia.
+https://github.com/welsonaraujor-stack/juntos-somos-mais-fortes.git
