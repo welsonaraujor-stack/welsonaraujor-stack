@@ -21,7 +21,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
- Projeto Pessoal
-Juntos Somos Mais Fortes
-Aplicação desenvolvida para incentivar a doação de sangue por meio da tecnologia.
-https://github.com/welsonaraujor-stack/juntos-somos-mais-fortes.git
+ Projeto Pessoal:                                                                                                                                           
+ Juntos Somos Mais Fortes                                                                                                                         
+Aplicação desenvolvida para incentivar a doação de sangue por meio da tecnologia.                                                                                  
+
